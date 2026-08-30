@@ -6,3 +6,4 @@ All rights reserved by ZAK-RIZ.
 |--|--|
 |[Mr.FEAR (PDF)](./pdf/Mr.FEAR.pdf)|[Mr.FEAR.md](./codes/Mr.FEAR.md)|
 |[Chicken Show (PDF)](./pdf/ChickenShow.pdf)|[ChickenShow.md](./codes/ChickenShow.md)|
+|[Frogman (PDF)](./pdf/Frogman.pdf)|[Frogman.md](./codes/Frogman.md)|
