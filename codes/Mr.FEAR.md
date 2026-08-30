@@ -1,4 +1,5 @@
-# Mr.FEAR
+# Mr.FEAR (通称: フィアー)
+All rights reserved by ZAK-RIZ.
 
 ## メモ
 とくになし

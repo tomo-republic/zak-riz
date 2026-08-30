@@ -54,23 +54,27 @@ h3 {
 Tables
 ---------------------------------------- */
 table {
-    width: 100%;
-    border-collapse: collapse;
-    margin: 1em 0;
+width: 100%;
+border-collapse: collapse;
+margin: 1em 0;
 }
 
 /* 全セル共通 */
 table th,
 table td {
-    border: 1px solid #bbb;
-    padding: 6px 10px;
-    text-align: left;
-    vertical-align: top;
+border: 1px solid #bbb;
+padding: 6px 10px;
+text-align: left;
+vertical-align: top;
 }
 
-/* カラムヘッダーのみ中央寄せ */
+/* カラムヘッダー */
 table th {
-    text-align: center !important;
-    vertical-align: middle;
-    font-weight: bold;
+text-align: center !important;
+vertical-align: middle;
+font-weight: bold;
+
+/* 背景グレー + 白文字 */
+background-color: #666 !important;
+color: #fff !important;
 }

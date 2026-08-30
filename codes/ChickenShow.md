@@ -1,4 +1,5 @@
-# Chicken Show
+# Chicken Show (通称: チキン)
+All rights reserved by ZAK-RIZ.
 
 ## メモ
 - Bメロの2, 4小節目がシンコペ (8分音符食ってる)
