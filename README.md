@@ -8,3 +8,4 @@ All rights reserved by ZAK-RIZ.
 |[Chicken Show (PDF)](./pdf/ChickenShow.pdf)|[ChickenShow.md](./codes/ChickenShow.md)|
 |[Frogman (PDF)](./pdf/Frogman.pdf)|[Frogman.md](./codes/Frogman.md)|
 |[どす黒い曇り空の下 (PDF)](./pdf/どす黒い曇り空の下.pdf)|[どす黒い曇り空の下.md](./codes/Frogman.md)|
+|[faraway (PDF)](./pdf/faraway.pdf)|[faraway.md](./codes/faraway.md)|
