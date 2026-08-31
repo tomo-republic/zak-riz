@@ -10,3 +10,4 @@ All rights reserved by ZAK-RIZ.
 |[どす黒い曇り空の下 (PDF)](./pdf/どす黒い曇り空の下.pdf)|[どす黒い曇り空の下.md](./codes/Frogman.md)|
 |[faraway (PDF)](./pdf/faraway.pdf)|[faraway.md](./codes/faraway.md)|
 |[What's a hero? (PDF)](./pdf/WhatsAHero.pdf)|[WhatsAHero.md](./codes/WhatsAHero.md)|
+|[KAI (PDF)](./pdf/KAI.pdf)|[KAI.md](./codes/KAI.md)|
